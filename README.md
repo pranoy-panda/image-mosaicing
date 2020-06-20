@@ -1,5 +1,5 @@
 # Image Mosaicing
-This project of mine is the implementation of some computer vision and linear algebra methods to stich images. These images were taken by a person who was standing at one point and rotating his camera from left to right to take several overlapping images.  
+This project of mine is the implementation of some computer vision and linear algebra methods to stich images. These images were taken by a person who was standing at one point and rotating his camera from left to right to take several overlapping images.(FYI, these images show the beautiful view from the main-gate of the EC department of NIT Rourkela, my Alma Mater)
 
 | Input 1  | Input 2 | Stiched Output |
 | ------------- | ------------- | ------------- |
